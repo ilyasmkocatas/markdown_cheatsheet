@@ -13,7 +13,7 @@
 * <sub>tiefgestellt</sub>
 * <sup>hochgestellt</sup>
 * `Code`
-* :heart:
+* :trollface:
 
 ### Sortierte Liste
 1. Java
@@ -25,3 +25,18 @@
 - [x] Java
 - [ ] ABAP
 - [x] Python
+
+## Tabellen
+
+| **Name** | Alter | Geschlecht |
+| -------- | ----- | :--------: |
+| Peter    | 54    |     m      |
+| Hans     | 14    |     m      |
+| Dieter   | 48    |     m      |
+
+## Links und Grafiken
+
+- [Tabellengenerator](https://www.tablesgenerator.com/)
+- [Emoji-Codes](https://gist.github.com/rxaviers/7360908)
+- [Prettier.io](https://prettier.io/)
+- 
